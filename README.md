@@ -1,1 +1,1 @@
-# python-qrcode-maker
+# python-qrcode-generator
